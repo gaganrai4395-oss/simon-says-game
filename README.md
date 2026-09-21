@@ -5,7 +5,7 @@ A fun memory-based game built using HTML, CSS, and JavaScript.
 
 ## 🚀 Live Demo
 
-[Play Simon Says Game](YOUR_LIVE_DEMO_LINK)
+[Play Simon Says Game]((https://gaganrai4395-oss.github.io/simon-says-game/))
 
 ## 📌 About the Project
 
