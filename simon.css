@@ -1,0 +1,51 @@
+*{
+    text-align: center;
+}
+
+.cointener{
+    height: 400px;
+    width: 400px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.innerBox{
+    height: 135px;
+    width: 135px;
+    border: 6px solid black;
+    border-radius: 25px;
+    transition: 0.2s;
+}
+
+.red{
+    background-color: rgb(217, 13, 13);
+    opacity: 0.9;
+}
+
+.yellow{
+    background-color: yellow;
+    opacity: 0.9;
+}
+
+.purple{
+    background-color: rgb(95, 16, 95);
+    opacity: 0.9;
+}
+
+.blue{
+    background-color: rgb(42, 42, 130);
+    opacity: 0.9;
+}
+
+.flesh{
+    background-color: white;
+}
+.userFlesh{
+    background-color: green;
+}
